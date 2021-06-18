@@ -692,7 +692,7 @@ ol {
 	height: 6px;
 	left: 0;
 	bottom: 8px;
-	background: #4B5B98;
+	/*background: #4B5B98;*/
 	opacity: 0.5;
 	z-index: -1;
 }
